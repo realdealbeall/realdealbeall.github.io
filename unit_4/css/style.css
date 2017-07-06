@@ -1,0 +1,15 @@
+body {
+	background-color: #CEDFD9
+}
+h1{
+	color: #5F5449;
+}
+
+p {
+	font-size: 18px
+	line-height: 1.5em;
+	margin: 2em
+
+#slogan {
+	font-style: italic;
+}
