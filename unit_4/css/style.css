@@ -1,14 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Serif|Pacifico');
+
 body {
 	background-color: #CEDFD9
 }
 h1{
 	color: #5F5449;
+	font-family: "Pacifico";
+	font-size: 56px;
+
 }
 
 p {
-	font-size: 18px
-	line-height: 1.5em;
-	margin: 2em
+	font-size: 20px;
+	font-family: "Droid-Serif";
+	line-height: 1.5em
+
+}
+
+ul{
+	font-size: 20px;
+	font-family: "Droid-Serif";
+	line-height: 1.5em
+}
+
 
 #slogan {
 	font-style: italic;
